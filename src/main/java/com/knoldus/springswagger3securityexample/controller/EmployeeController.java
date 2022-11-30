@@ -58,10 +58,10 @@ import org.springframework.web.bind.annotation.RestController;
         private static List<Employee> createList() {
             List<Employee> tempEmployees = new ArrayList<>();
             Employee emp1 = new Employee();
-            emp1.setName("emp1");
-            emp1.setDesignation("Software Consultant");
-            emp1.setEmpId("1");
-            emp1.setSalary(40000);
+            emp1.setName("Deepesh");
+            emp1.setDesignation("Technocrats");
+            emp1.setEmpId("11");
+            emp1.setSalary(50000);
 
             Employee emp2 = new Employee();
             emp2.setName("emp2");
